@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBoard", "ChessBoard\ChessBoard.csproj", "{F7EB0731-B5E8-4A40-A798-D99B7DDFA6A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessBoard", "ChessBoard\ChessBoard.csproj", "{F7EB0731-B5E8-4A40-A798-D99B7DDFA6A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Envelopes", "Envelopes\Envelopes.csproj", "{4E9EB62A-46F6-4B30-AB75-0BD61B5C6D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToString", "NumberToString\NumberToString.csproj", "{BDFF0D05-FE89-444B-B5B7-A086E2617762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickets", "Tickets\Tickets.csproj", "{BEDA0D76-E82F-4DF2-92E4-933E424C56EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{F7EB0731-B5E8-4A40-A798-D99B7DDFA6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7EB0731-B5E8-4A40-A798-D99B7DDFA6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7EB0731-B5E8-4A40-A798-D99B7DDFA6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9EB62A-46F6-4B30-AB75-0BD61B5C6D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9EB62A-46F6-4B30-AB75-0BD61B5C6D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9EB62A-46F6-4B30-AB75-0BD61B5C6D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9EB62A-46F6-4B30-AB75-0BD61B5C6D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFF0D05-FE89-444B-B5B7-A086E2617762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFF0D05-FE89-444B-B5B7-A086E2617762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFF0D05-FE89-444B-B5B7-A086E2617762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFF0D05-FE89-444B-B5B7-A086E2617762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDA0D76-E82F-4DF2-92E4-933E424C56EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDA0D76-E82F-4DF2-92E4-933E424C56EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDA0D76-E82F-4DF2-92E4-933E424C56EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDA0D76-E82F-4DF2-92E4-933E424C56EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
