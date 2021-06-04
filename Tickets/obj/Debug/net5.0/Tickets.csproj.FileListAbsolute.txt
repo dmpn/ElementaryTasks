@@ -1,0 +1,16 @@
+D:\АСУП\repos\ElementaryTasks\Tickets\bin\Debug\net5.0\Tickets.exe
+D:\АСУП\repos\ElementaryTasks\Tickets\bin\Debug\net5.0\Tickets.deps.json
+D:\АСУП\repos\ElementaryTasks\Tickets\bin\Debug\net5.0\Tickets.runtimeconfig.json
+D:\АСУП\repos\ElementaryTasks\Tickets\bin\Debug\net5.0\Tickets.runtimeconfig.dev.json
+D:\АСУП\repos\ElementaryTasks\Tickets\bin\Debug\net5.0\Tickets.dll
+D:\АСУП\repos\ElementaryTasks\Tickets\bin\Debug\net5.0\ref\Tickets.dll
+D:\АСУП\repos\ElementaryTasks\Tickets\bin\Debug\net5.0\Tickets.pdb
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\Tickets.csprojAssemblyReference.cache
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\Tickets.GeneratedMSBuildEditorConfig.editorconfig
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\Tickets.AssemblyInfoInputs.cache
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\Tickets.AssemblyInfo.cs
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\Tickets.csproj.CoreCompileInputs.cache
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\Tickets.dll
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\ref\Tickets.dll
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\Tickets.pdb
+D:\АСУП\repos\ElementaryTasks\Tickets\obj\Debug\net5.0\Tickets.genruntimeconfig.cache

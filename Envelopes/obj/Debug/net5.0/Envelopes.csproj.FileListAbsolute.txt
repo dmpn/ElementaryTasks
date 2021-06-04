@@ -1,0 +1,16 @@
+D:\АСУП\repos\ElementaryTasks\Envelopes\bin\Debug\net5.0\Envelopes.exe
+D:\АСУП\repos\ElementaryTasks\Envelopes\bin\Debug\net5.0\Envelopes.deps.json
+D:\АСУП\repos\ElementaryTasks\Envelopes\bin\Debug\net5.0\Envelopes.runtimeconfig.json
+D:\АСУП\repos\ElementaryTasks\Envelopes\bin\Debug\net5.0\Envelopes.runtimeconfig.dev.json
+D:\АСУП\repos\ElementaryTasks\Envelopes\bin\Debug\net5.0\Envelopes.dll
+D:\АСУП\repos\ElementaryTasks\Envelopes\bin\Debug\net5.0\ref\Envelopes.dll
+D:\АСУП\repos\ElementaryTasks\Envelopes\bin\Debug\net5.0\Envelopes.pdb
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\Envelopes.csprojAssemblyReference.cache
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\Envelopes.GeneratedMSBuildEditorConfig.editorconfig
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\Envelopes.AssemblyInfoInputs.cache
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\Envelopes.AssemblyInfo.cs
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\Envelopes.csproj.CoreCompileInputs.cache
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\Envelopes.dll
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\ref\Envelopes.dll
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\Envelopes.pdb
+D:\АСУП\repos\ElementaryTasks\Envelopes\obj\Debug\net5.0\Envelopes.genruntimeconfig.cache

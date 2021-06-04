@@ -1,0 +1,5 @@
+D:\exe\ChessBoard.exe
+D:\exe\ChessBoard.dll
+D:\exe\ChessBoard.deps.json
+D:\exe\ChessBoard.runtimeconfig.json
+D:\exe\ChessBoard.pdb

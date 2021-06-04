@@ -1,0 +1,16 @@
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\NumberToString.csprojAssemblyReference.cache
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\NumberToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\NumberToString.AssemblyInfoInputs.cache
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\NumberToString.AssemblyInfo.cs
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\NumberToString.csproj.CoreCompileInputs.cache
+D:\АСУП\repos\ElementaryTasks\NumberToString\bin\Debug\net5.0\NumberToString.exe
+D:\АСУП\repos\ElementaryTasks\NumberToString\bin\Debug\net5.0\NumberToString.deps.json
+D:\АСУП\repos\ElementaryTasks\NumberToString\bin\Debug\net5.0\NumberToString.runtimeconfig.json
+D:\АСУП\repos\ElementaryTasks\NumberToString\bin\Debug\net5.0\NumberToString.runtimeconfig.dev.json
+D:\АСУП\repos\ElementaryTasks\NumberToString\bin\Debug\net5.0\NumberToString.dll
+D:\АСУП\repos\ElementaryTasks\NumberToString\bin\Debug\net5.0\ref\NumberToString.dll
+D:\АСУП\repos\ElementaryTasks\NumberToString\bin\Debug\net5.0\NumberToString.pdb
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\NumberToString.dll
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\ref\NumberToString.dll
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\NumberToString.pdb
+D:\АСУП\repos\ElementaryTasks\NumberToString\obj\Debug\net5.0\NumberToString.genruntimeconfig.cache

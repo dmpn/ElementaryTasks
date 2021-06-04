@@ -1,0 +1,16 @@
+D:\АСУП\repos\ElementaryTasks\ChessBoard\bin\Release\net5.0\ChessBoard.exe
+D:\АСУП\repos\ElementaryTasks\ChessBoard\bin\Release\net5.0\ChessBoard.deps.json
+D:\АСУП\repos\ElementaryTasks\ChessBoard\bin\Release\net5.0\ChessBoard.runtimeconfig.json
+D:\АСУП\repos\ElementaryTasks\ChessBoard\bin\Release\net5.0\ChessBoard.runtimeconfig.dev.json
+D:\АСУП\repos\ElementaryTasks\ChessBoard\bin\Release\net5.0\ChessBoard.dll
+D:\АСУП\repos\ElementaryTasks\ChessBoard\bin\Release\net5.0\ref\ChessBoard.dll
+D:\АСУП\repos\ElementaryTasks\ChessBoard\bin\Release\net5.0\ChessBoard.pdb
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ChessBoard.GeneratedMSBuildEditorConfig.editorconfig
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ChessBoard.AssemblyInfoInputs.cache
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ChessBoard.AssemblyInfo.cs
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ChessBoard.csproj.CoreCompileInputs.cache
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ChessBoard.dll
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ref\ChessBoard.dll
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ChessBoard.pdb
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ChessBoard.genruntimeconfig.cache
+D:\АСУП\repos\ElementaryTasks\ChessBoard\obj\Release\net5.0\ChessBoard.csprojAssemblyReference.cache

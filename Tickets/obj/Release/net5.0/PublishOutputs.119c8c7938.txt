@@ -1,0 +1,5 @@
+D:\АСУП\repos\ConsoleApps\Tickets.exe
+D:\АСУП\repos\ConsoleApps\Tickets.dll
+D:\АСУП\repos\ConsoleApps\Tickets.deps.json
+D:\АСУП\repos\ConsoleApps\Tickets.runtimeconfig.json
+D:\АСУП\repos\ConsoleApps\Tickets.pdb
