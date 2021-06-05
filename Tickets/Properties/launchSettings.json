@@ -2,7 +2,7 @@
   "profiles": {
     "Tickets": {
       "commandName": "Project",
-      "commandLineArgs": "000001 000111"
+      "commandLineArgs": "000001 011110"
     }
   }
 }
