@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToString", "NumberToS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tickets", "Tickets\Tickets.csproj", "{BEDA0D76-E82F-4DF2-92E4-933E424C56EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{978442A3-87E8-4EB9-80AE-3535DA6DC299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{978442A3-87E8-4EB9-80AE-3535DA6DC299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

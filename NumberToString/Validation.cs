@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace NumberToString
 {
-    class Model
+    public class Validation
     {
-        string number { get; set; }
-        public Model (string number)
+        public static bool LengthCheck (string number)
         {
-            this.number = number;
+            return (number.Length == 3);
         }
-       
+
     }
 }
