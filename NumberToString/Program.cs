@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NumberToString.Model;
+using System;
 
 namespace NumberToString
 {
@@ -6,7 +7,9 @@ namespace NumberToString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string number = "555555555555555555";
+            Console.WriteLine(number);
+            StringConvert.Print(number);
         }
     }
 }

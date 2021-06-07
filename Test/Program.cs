@@ -9,14 +9,17 @@ namespace Test
 
         static void Main(string[] args)
         {
-            string s1 = "1 2 3 4 5";
-            string s2 = s1.Replace(' ', '_');
-            Console.WriteLine($"s1: "+s1);
-            Console.WriteLine($"s2: "+s2);
-
-
-            int[][] nums = new int[3][];
-            nums[0] = new int[3] { 1, 2, 3 };
+            
+            Console.WriteLine(Convert.ToInt32('0'));
+            Console.WriteLine(Convert.ToInt32('1'));
+            Console.WriteLine(Convert.ToInt32('2'));
+            Console.WriteLine(Convert.ToInt32('3'));
+            Console.WriteLine(Convert.ToInt32('4'));
+            Console.WriteLine(Convert.ToInt32('5'));
+            Console.WriteLine(Convert.ToInt32('6'));
+            Console.WriteLine(Convert.ToInt32('7'));
+            Console.WriteLine(Convert.ToInt32('8'));
+            Console.WriteLine(Convert.ToInt32('9'));
 
         }
     }
