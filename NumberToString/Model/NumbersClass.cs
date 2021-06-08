@@ -8,33 +8,63 @@ namespace NumberToString.Model
 {
     class NumbersClass
     {
-
+        private const byte SHIFT_ON_UNICODE = 48;
         private StringBuilder name { get; set; }
-        public StringBuilder text { get; set; } = new StringBuilder();
+        public StringBuilder text { get; set; }/* = new StringBuilder();*/
 
         public NumbersClass(int stage, string value)
         {
-            this.name = GetName (stage, value[value.Length-1]);
-            this.text = GetStringNumber(value).Append(name);
+            //name = GetName (stage, value[value.Length-1]);
+            text = GetStringNumber(stage, value).Append(name);
         }
 
-        private StringBuilder GetStringNumber(string value)
+        private StringBuilder GetStringNumber(int stage, string value)
         {
-            StringBuilder tempString = new StringBuilder();
+            int specialWords = 3;
+            //int specialIndex = 2;
+            StringBuilder resultText = new StringBuilder();
+            int currentValue = 0;
+            bool isZero;
+
             for (int i = 0; i < 3; i++)
             {
-                tempString.Append(Words.numbers[i][Convert.ToInt32(value[i])-48]);
-                tempString.Append(" ");
+                if (!Char.IsDigit(value[i]))
+                {
+                    throw new ArgumentException ("Число введено неправильно");
+                }
+
+                currentValue = ( Convert.ToInt32 (value[i])) - SHIFT_ON_UNICODE;
+
+                if (currentValue==0)
+                {
+                    isZero = true;
+                }
+                if (i == 1 && currentValue == 1)
+                {
+                    resultText.Append ( GetWord ( specialWords, (Convert.ToInt32(value[++i])) - SHIFT_ON_UNICODE ) );
+                    resultText.Append(" ");
+                    resultText.Append ( GetName ( stage, specialWords) );
+                    return resultText;
+                }
+                resultText.Append ( GetWord(i, currentValue));
+                resultText.Append ( " " );
             }
-            return tempString;
+            resultText.Append ( GetName (stage, currentValue));
+            return resultText;
         }
 
-        private StringBuilder GetName(int stage, char value)
+
+        private string GetWord ( int degree, int value )
+        {
+            return Words.numbers [degree] [value];
+        }
+
+        private StringBuilder GetName(int stage, int value)
         {
             StringBuilder name = new StringBuilder(Words.classes[stage]);
             int endingChoose;
 
-            switch (Convert.ToInt32(value-48))
+            switch (Convert.ToInt32(value - SHIFT_ON_UNICODE))
             {
                 case 1:
                     endingChoose = 0;
@@ -60,7 +90,7 @@ namespace NumberToString.Model
                     name.Append(Words.ending[1][endingChoose]);
                     break;
             }
-            
+            name.Append(" ");
             return name;
         }
     }

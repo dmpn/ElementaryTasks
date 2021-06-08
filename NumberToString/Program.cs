@@ -7,7 +7,8 @@ namespace NumberToString
     {
         static void Main(string[] args)
         {
-            string number = "555555555555555555";
+            string number = "987614321";
+            
             Console.WriteLine(number);
             StringConvert.Print(number);
         }
