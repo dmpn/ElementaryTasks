@@ -5,9 +5,9 @@ namespace Envelopes
 {
     public class View
     {
-        public void Start (string message)
+        public void Start ()
         {
-            Console.WriteLine(message);
+            Console.WriteLine("Программа определяет, можно ли один конверт (a, b) вложить в другой (c, d). ");
 
         }
         public float EnterSides (string message)
@@ -15,7 +15,7 @@ namespace Envelopes
             float currentSize;
             Console.Write (message);
 
-            while (!float.TryParse(Console.ReadLine(), out currentSize) /*|| !Checker.CheckSize(currentSize)*/)
+            while (!float.TryParse(Console.ReadLine(), out currentSize) )
             {
                 Console.WriteLine("Необходимо ввести число в диапазоне 1 - 3.4e38f");
             }

@@ -6,8 +6,8 @@ namespace Tickets
     {
         static void Main(string[] args)
         {
-            Controller controller = new Controller();
-            controller.Run(args);
+            Controller controller = new Controller(args);
+            controller.Run();
         }
     }
 }

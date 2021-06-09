@@ -16,7 +16,8 @@ namespace Envelopes
         Envelope envelope1;
         Envelope envelope2;
         public void Run (View view)
-        {            
+        {
+            view.Start();
             do
             {
                 aSize = view.EnterSides("Введите a: ");

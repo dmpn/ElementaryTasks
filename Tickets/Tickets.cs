@@ -24,7 +24,6 @@ namespace Tickets
 
         public bool SecondWay(int[] digits)
         {
-        
            return ((digits[0] + digits[2] + digits[4]) == (digits[1] + digits[3] + digits[5]));
         }
 

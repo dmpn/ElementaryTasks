@@ -1,0 +1,5 @@
+D:\АСУП\repos\ConsoleApps\NumberToString.exe
+D:\АСУП\repos\ConsoleApps\NumberToString.dll
+D:\АСУП\repos\ConsoleApps\NumberToString.deps.json
+D:\АСУП\repos\ConsoleApps\NumberToString.runtimeconfig.json
+D:\АСУП\repos\ConsoleApps\NumberToString.pdb

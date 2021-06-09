@@ -8,7 +8,6 @@ namespace Tickets
 {
     public class View
     {
-        
         public static void Greeting ()
         {
             
@@ -21,7 +20,7 @@ namespace Tickets
         public (int min, int max) numbers;
         public static void IncorrectValue ()
         {
-            Console.Write("Введите номер билета от 000001 до 999999: ");
+            Console.WriteLine("Номер билета должен быть в диапазоне от 000001 до 999999: ");
         }
 
         public static void Firstway(int number)
@@ -32,7 +31,6 @@ namespace Tickets
         {
             Console.WriteLine($"Сложный способ обнаружил {number} счастливых билетов.");
         }
-
         public static void Winner(int win)
         {
             if (win != 2)
@@ -44,7 +42,29 @@ namespace Tickets
             {
                 Console.WriteLine("Способы равны.");    
             }
-
+        }
+        public static bool Resume()
+        {
+            Console.WriteLine("Ввести новые билеты (y/yes)?");
+            switch (Console.ReadLine().ToLower())
+            {
+                case "y":
+                case "yes":
+                   
+                    return true;
+                default:
+                   
+                    return false;
+            }
+        }
+        public static string[] ReadNumber()
+        {
+            string [] limits = new string [2];
+            Console.Write("Введите начало диапазона:");
+            limits[0]=Console.ReadLine();
+            Console.Write("Введите конец диапазона:");
+            limits[1] = Console.ReadLine();
+            return limits;
         }
     }
 }

@@ -18,8 +18,11 @@ namespace Tickets
                         
                         if (Int32.TryParse(args[0], out result.min) && Int32.TryParse(args[1], out result.max) &&
                             Limits (result.min, result.max) )
+                        {
                             result.isValid = true;
+                        }
                             return result;
+
                     }
             }
             return result;

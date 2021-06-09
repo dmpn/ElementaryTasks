@@ -1,0 +1,16 @@
+D:\repos\ElementaryTasks\NumberToString\bin\Release\net5.0\NumberToString.exe
+D:\repos\ElementaryTasks\NumberToString\bin\Release\net5.0\NumberToString.deps.json
+D:\repos\ElementaryTasks\NumberToString\bin\Release\net5.0\NumberToString.runtimeconfig.json
+D:\repos\ElementaryTasks\NumberToString\bin\Release\net5.0\NumberToString.runtimeconfig.dev.json
+D:\repos\ElementaryTasks\NumberToString\bin\Release\net5.0\NumberToString.dll
+D:\repos\ElementaryTasks\NumberToString\bin\Release\net5.0\ref\NumberToString.dll
+D:\repos\ElementaryTasks\NumberToString\bin\Release\net5.0\NumberToString.pdb
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\NumberToString.csprojAssemblyReference.cache
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\NumberToString.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\NumberToString.AssemblyInfoInputs.cache
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\NumberToString.AssemblyInfo.cs
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\NumberToString.csproj.CoreCompileInputs.cache
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\NumberToString.dll
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\ref\NumberToString.dll
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\NumberToString.pdb
+D:\repos\ElementaryTasks\NumberToString\obj\Release\net5.0\NumberToString.genruntimeconfig.cache
