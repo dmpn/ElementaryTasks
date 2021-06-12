@@ -39,9 +39,6 @@ namespace NumberToString.Model
                         isZero = false;
                     }
                 }
-                
-            
-            
         }
     }
 }

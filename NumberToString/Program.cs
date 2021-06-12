@@ -3,6 +3,9 @@ using System;
 
 namespace NumberToString
 {
+    /// <summary>
+    /// 
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

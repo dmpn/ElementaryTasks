@@ -15,14 +15,12 @@ namespace Tickets
             {
                 case 2:
                     {
-                        
                         if (Int32.TryParse(args[0], out result.min) && Int32.TryParse(args[1], out result.max) &&
                             Limits (result.min, result.max) )
                         {
                             result.isValid = true;
                         }
                             return result;
-
                     }
             }
             return result;
@@ -37,15 +35,5 @@ namespace Tickets
                      max >= minLimit && max <= maxLimit &&
                      min < max));
         }
-
-        //public static bool GetInt (string value, out int intResult)
-        //{
-        //    if (!Int32.TryParse(value, out intResult))
-        //    {
-        //        intResult = 0;
-        //        return false;
-        //    }
-        //    return true;
-        //}
     }
 }

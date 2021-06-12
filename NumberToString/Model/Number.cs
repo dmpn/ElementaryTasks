@@ -10,14 +10,13 @@ namespace NumberToString.Model
         public bool isZero = true;
         public Number(int stage, string value)
         {
-            //name = GetName (stage, value[value.Length-1]);
             stringValue = GetStringNumber(stage, value);
         }
         private StringBuilder GetStringNumber(int stage, string value)
         {
             int specialWords = 3;
             int specialEndings = 5;
-            //int specialIndex = 2;
+            
             StringBuilder resultText = new StringBuilder();
             int currentValue = 0;
             int sum = 0;
@@ -26,7 +25,7 @@ namespace NumberToString.Model
             {
                 if (!Char.IsDigit(value[i]))
                 {
-                    throw new ArgumentException ("Число введено неправильно");
+                    throw new ArgumentException ();
                 }
 
                 currentValue = ( Convert.ToInt32 (value[i])) - SHIFT_ON_UNICODE;
@@ -86,6 +85,7 @@ namespace NumberToString.Model
                 case 1:
                     name.Append(Words.ending[0][endingChoose]);
                     break;
+
                 default:
                     name.Append(Words.ending[1][endingChoose]);
                     break;

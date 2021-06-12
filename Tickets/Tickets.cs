@@ -5,7 +5,6 @@ namespace Tickets
 {
     public class Tickets
     {
-
         public int[] GetNumbers(int number)
         {
             int[] digits = new int[6];
@@ -17,9 +16,10 @@ namespace Tickets
             digits[5] = number % 10;
             return digits;
         }
+
         public bool FirstWay(int[] digits)
         {
-            return ((digits[0] + digits[1] + digits[2]) == (digits[3] + digits[4] + digits[5]));
+           return (digits[0] + digits[1] + digits[2]) == (digits[3] + digits[4] + digits[5]);
         }
 
         public bool SecondWay(int[] digits)

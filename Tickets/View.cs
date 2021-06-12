@@ -17,6 +17,7 @@ namespace Tickets
                             "Выход: информация о победившем методе и количестве счастливых билетов \n" +
                             "для каждого способа подсчёта.");
         }
+
         public (int min, int max) numbers;
         public static void IncorrectValue ()
         {
@@ -27,10 +28,12 @@ namespace Tickets
         {
             Console.WriteLine($"Простой способ обнаружил {number} счастливых билетов.");
         }
+
         public static void SecondWay(int number)
         {
             Console.WriteLine($"Сложный способ обнаружил {number} счастливых билетов.");
         }
+
         public static void Winner(int win)
         {
             if (win != 2)
@@ -66,5 +69,6 @@ namespace Tickets
             limits[1] = Console.ReadLine();
             return limits;
         }
+
     }
 }
